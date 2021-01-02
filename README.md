@@ -1,5 +1,5 @@
 # Commi
-Total the number of occurrences of an object in an array.
+The total number of common occurrences of an item in an array.
 
 ```swift
 import UIKit
